@@ -1,0 +1,13 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  /* get rid of default browser styling */
+  border-style: none;
+  /* % is better for mobile devices */
+  width: 5%;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+}
